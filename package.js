@@ -1,5 +1,5 @@
 Package.describe({
-    name:          'gjr-qm:body-parser',
+    name:          'gjrqm:body-parser',
     version:       '0.0.3',
     summary:       "Adds a POST body-parser middleware to Meteor's internal WebApp server",
     git:           'https://github.com/gjr-qm/body-parser',
